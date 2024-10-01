@@ -23,7 +23,8 @@ Actions:
 ∙ Load;
 
 
-![image]()
+![5variant](https://github.com/user-attachments/assets/7b39f24a-1231-4bd6-8814-a3ce27c25203)
+
 
 I will be using C language, and arduino uno for HW.
 
