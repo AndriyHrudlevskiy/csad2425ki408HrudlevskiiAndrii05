@@ -1,4 +1,4 @@
-﻿# csad-2125-ki408-Hrudlevskii-05-
+﻿# csad2425ki408Hrudlevskii05
 Game requirements:
 The simple games will be used as projects for development (see table#1).
 Configuration and state saving should be done using config format from table#1.
