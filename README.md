@@ -1,4 +1,4 @@
-# csad-2425-ki408-Hrudlevskii-05-
+# csad-2425-ki408-Hrudlevskii-04-
 
 Game requirements:
 The simple games will be used as projects for development (see table#1).
